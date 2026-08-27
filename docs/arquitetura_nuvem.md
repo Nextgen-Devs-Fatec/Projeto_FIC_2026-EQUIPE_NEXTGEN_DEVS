@@ -7,7 +7,7 @@
 ---
 
 ## 1. Diagrama de Arquitetura do Sistema 
-```
+```mermaid
 graph TD
 
     %% =========================
