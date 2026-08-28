@@ -1,4 +1,4 @@
-### Mapeamento e Documentação das Rotas da API (REST)
+# Mapeamento e Documentação das Rotas da API (REST)
 
 #### 1. Módulo de Cadastros Base
 

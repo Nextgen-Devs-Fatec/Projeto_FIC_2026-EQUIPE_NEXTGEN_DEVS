@@ -51,12 +51,12 @@ EnvVars -.->|Credenciais| ExpressAPI
 Controllers -->|Sequelize / SQL| PostgresDB
 ```
 
+---
+### Pilares de Segurança - Arquitetura
+---
 
-### Pilares de Segurança
+# Mecanismos de Segurança e Proteção de Dados
 
-# Documentação de Arquitetura — Segurança
-
-## Mecanismos de Segurança e Proteção de Dados
 
 * **HTTPS / SSL:** Criptografia em trânsito ponta a ponta para trafegar credenciais e dados sensíveis com segurança entre o *Front-end* e o *Express Router*.
 

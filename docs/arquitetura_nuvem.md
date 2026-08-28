@@ -1,12 +1,6 @@
- # ARQUITETURA DA SOLUÇÃO E INFRAESTRUTURA EM NUVEM
+## ARQUITETURA DA SOLUÇÃO E INFRAESTRUTURA EM NUVEM
 
-**Projeto:** Saúde Conectada
-**Equipe:** Nextgen_devs
-**Responsável:** Apolo (DevOps)
-
----
-
-## 1. Diagrama de Arquitetura do Sistema 
+## Diagrama de Arquitetura do Sistema 
 ```mermaid
 graph TD
 
